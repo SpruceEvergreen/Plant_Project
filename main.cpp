@@ -1,3 +1,4 @@
+// #define _CRT_SECURE_NO_WARNINGS 1 is needed because of the use std::localtime (line 176-180)
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <iostream>
 #include <string>
